@@ -1,0 +1,27 @@
+.divsss {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: black;
+}
+
+.divsss h1 {
+  color: white;
+}
+
+.containss {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.start {
+  color: black;
+  margin-top: 10px;
+}
+
+.divssss {
+  display: flex;
+  flex-direction: row;
+}
