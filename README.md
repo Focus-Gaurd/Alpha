@@ -88,3 +88,8 @@ For deploying the YOLOv5 distracted detection model on your MERN stack website, 
 
 2. Integrate Streamlit into your MERN stack website by embedding it in an iframe or linking to the Streamlit app's URL.
 
+Now, users visiting your MERN stack website can access the distracted detection functionality powered by YOLOv5 through the integrated Streamlit app. Customize the integration based on your website's design and requirements.
+
+## UI/UX Prototype
+
+Explore the UI/UX design of the app and web app in the Figma file provided. The Figma file contains all the prototypes and design elements, offering a comprehensive view of the user interface and user experience. Use this resource to guide the implementation of the design in your application.
